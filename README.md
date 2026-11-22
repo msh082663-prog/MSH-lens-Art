@@ -1,4 +1,4 @@
-[index.html.html](https://github.com/user-attachments/files/35238155/index.html.html)
+(https://github.com/user-attachments/files/35238155/index.html.html)
 <!DOCTYPE html>
 <html lang="bn" class="scroll-smooth">
 <head>
@@ -385,7 +385,8 @@
                  data-category="cinematic"
                  data-title="কুয়াশাচ্ছন্ন পাহাড়ি পথ"
                  data-subtitle="সিনেমাটিক ট্রাভেল স্টিল &bull; MSH Lens Art"
-                 data-img="https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=1200&q=85">
+                 data-img="https://images.unsplash.com/photo-
+https://github.com/user-attachments/assets/ac2dd581-4412-41dc-bb77-95659858506f">
                 <img src="https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=800&q=80" 
                      onerror="this.src='https://placehold.co/800x1000/140c0e/e11d48?text=Misty+Peaks'"
                      alt="কুয়াশাচ্ছন্ন পাহাড়ি পথ" class="w-full h-full object-cover">
