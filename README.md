@@ -1,5 +1,3 @@
-(https://github.com/user-attachments/files/35238155/index.html.html)
-<!DOCTYPE html>
 <html lang="bn" class="scroll-smooth">
 <head>
     <meta charset="UTF-8">
